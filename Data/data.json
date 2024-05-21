@@ -1,4 +1,4 @@
- {
+{
   "eventos": {
     "eventos": [
       {
@@ -32,7 +32,7 @@
         "id": "4",
         "host": "IREST",
         "title": "Multiply",
-        "description":"Testing",
+        "description": "Testing",
         "image": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FHrHWU0x4EYk8xi6cMDbs%2Fpub%2FUJQ6OYengh3AowqZFpuq.png",
         "date": "2024-06-10",
         "urlToRegister": "https://www.google.com"
@@ -55,7 +55,7 @@
         "date": "2024-06-25",
         "urlToRegister": "https://www.google.com"
       },
-       {
+      {
         "id": "7",
         "host": "IREST",
         "title": "PAR",
@@ -64,7 +64,7 @@
         "date": "2024-05-15",
         "urlToRegister": "https://www.google.com"
       },
-     {
+      {
         "id": "8",
         "host": "IREST",
         "title": "PAR",
