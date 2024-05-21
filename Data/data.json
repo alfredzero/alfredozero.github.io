@@ -16,7 +16,8 @@
         "title": "YTH CAMP",
         "description": "Testing",
         "image": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FkfPl4t8e8V6kws4rOX0T.jpg",
-        "date": "2024-05-20"
+        "date": "2024-05-20",
+        "urlToRegister": "https://www.google.com"
       },
       {
         "id": "3",
@@ -24,7 +25,8 @@
         "title": "Maraton de Oracion",
         "description": "Testing",
         "image": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FHrHWU0x4EYk8xi6cMDbs%2Fpub%2FIqpugCW7k8TEPiaOaLek.png",
-        "date": "2024-06-02"
+        "date": "2024-06-02",
+        "urlToRegister": "https://www.google.com"
       },
       {
         "id": "4",
@@ -32,7 +34,8 @@
         "title": "Multiply",
         "description":"Testing",
         "image": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FHrHWU0x4EYk8xi6cMDbs%2Fpub%2FUJQ6OYengh3AowqZFpuq.png",
-        "date": "2024-06-10"
+        "date": "2024-06-10",
+        "urlToRegister": "https://www.google.com"
       },
       {
         "id": "5",
@@ -40,7 +43,8 @@
         "title": "Emprendedores",
         "description": "Testing",
         "image": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FxsyyWc6OVLleGvRabXOt.jpg",
-        "date": "2024-06-18"
+        "date": "2024-06-18",
+        "urlToRegister": "https://www.google.com"
       },
       {
         "id": "6",
@@ -48,7 +52,8 @@
         "title": "Cree",
         "description": "Testing",
         "image": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FHrHWU0x4EYk8xi6cMDbs%2Fpub%2FluehliYZ65pt8zm7aGgV.png",
-        "date": "2024-06-25"
+        "date": "2024-06-25",
+        "urlToRegister": "https://www.google.com"
       },
        {
         "id": "7",
@@ -56,7 +61,8 @@
         "title": "PAR",
         "description": "Testing",
         "image": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FHrHWU0x4EYk8xi6cMDbs%2Fpub%2FQhJuUoac1Ur34eL6Dq5N.png",
-        "date": "2024-05-15"
+        "date": "2024-05-15",
+        "urlToRegister": "https://www.google.com"
       },
      {
         "id": "8",
@@ -64,7 +70,8 @@
         "title": "PAR",
         "description": "Testing",
         "image": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FHrHWU0x4EYk8xi6cMDbs%2Fpub%2FQhJuUoac1Ur34eL6Dq5N.png",
-        "date": "2024-05-15"
+        "date": "2024-05-15",
+        "urlToRegister": "https://www.google.com"
       }
     ]
   }
