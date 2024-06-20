@@ -11,24 +11,8 @@
         "urlToRegister": "https://irest.typeform.com/par24",
         "presenters": [
           {
-            "name": "Presenter 1",
+            "name": "Jenny Perez",
             "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
-          },
-          {
-            "name": "Presenter 2",
-            "imageUrl": "https://example.com/presenter2.jpg"
-          },
-          {
-            "name": "Presenter 3",
-            "imageUrl": "https://example.com/presenter3.jpg"
-          },
-          {
-            "name": "Presenter 4",
-            "imageUrl": "https://example.com/presenter4.jpg"
-          },
-          {
-            "name": "Presenter 5",
-            "imageUrl": "https://example.com/presenter5.jpg"
           }
         ],
         "teaserVideoURL": "https://www.youtube.com/watch?v=sXkgDOAl4TY"
