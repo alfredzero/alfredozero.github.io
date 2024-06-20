@@ -12,7 +12,7 @@
         "presenters": [
           {
             "name": "Presenter 1",
-            "imageUrl": "https://example.com/presenter1.jpg"
+            "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
           },
           {
             "name": "Presenter 2",
@@ -31,7 +31,7 @@
             "imageUrl": "https://example.com/presenter5.jpg"
           }
         ],
-        "teaserVideoURL": "https://www.youtube.com/watch?v=examplevideo"
+        "teaserVideoURL": "https://www.youtube.com/watch?v=sXkgDOAl4TY"
       },
       {
         "id": "2",
@@ -44,11 +44,11 @@
         "presenters": [
           {
             "name": "Presenter 1",
-            "imageUrl": "https://example.com/presenter1.jpg"
+            "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
           },
           {
             "name": "Presenter 2",
-            "imageUrl": "https://example.com/presenter2.jpg"
+            "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
           },
           {
             "name": "Presenter 3",
@@ -63,7 +63,7 @@
             "imageUrl": "https://example.com/presenter5.jpg"
           }
         ],
-        "teaserVideoURL": "https://www.youtube.com/watch?v=examplevideo"
+        "teaserVideoURL": "https://www.youtube.com/watch?v=sXkgDOAl4TY"
       },
       {
         "id": "3",
@@ -76,11 +76,11 @@
         "presenters": [
           {
             "name": "Presenter 1",
-            "imageUrl": "https://example.com/presenter1.jpg"
+            "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
           },
           {
             "name": "Presenter 2",
-            "imageUrl": "https://example.com/presenter2.jpg"
+            "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
           },
           {
             "name": "Presenter 3",
@@ -95,7 +95,7 @@
             "imageUrl": "https://example.com/presenter5.jpg"
           }
         ],
-        "teaserVideoURL": "https://www.youtube.com/watch?v=examplevideo"
+        "teaserVideoURL": "https://www.youtube.com/watch?v=sXkgDOAl4TY"
       },
       {
         "id": "4",
@@ -108,7 +108,7 @@
         "presenters": [
           {
             "name": "Presenter 1",
-            "imageUrl": "https://example.com/presenter1.jpg"
+            "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
           },
           {
             "name": "Presenter 2",
@@ -127,7 +127,7 @@
             "imageUrl": "https://example.com/presenter5.jpg"
           }
         ],
-        "teaserVideoURL": "https://www.youtube.com/watch?v=examplevideo"
+        "teaserVideoURL": "https://www.youtube.com/watch?v=sXkgDOAl4TY"
       },
       {
         "id": "5",
@@ -140,15 +140,15 @@
         "presenters": [
           {
             "name": "Presenter 1",
-            "imageUrl": "https://example.com/presenter1.jpg"
+            "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
           },
           {
             "name": "Presenter 2",
-            "imageUrl": "https://example.com/presenter2.jpg"
+            "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
           },
           {
             "name": "Presenter 3",
-            "imageUrl": "https://example.com/presenter3.jpg"
+            "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
           },
           {
             "name": "Presenter 4",
@@ -159,7 +159,7 @@
             "imageUrl": "https://example.com/presenter5.jpg"
           }
         ],
-        "teaserVideoURL": "https://www.youtube.com/watch?v=examplevideo"
+        "teaserVideoURL": "https://www.youtube.com/watch?v=sXkgDOAl4TY"
       },
       {
         "id": "6",
@@ -172,11 +172,11 @@
         "presenters": [
           {
             "name": "Presenter 1",
-            "imageUrl": "https://example.com/presenter1.jpg"
+            "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
           },
           {
             "name": "Presenter 2",
-            "imageUrl": "https://example.com/presenter2.jpg"
+            "imageUrl": "https://res.cloudinary.com/glide/image/fetch/f_auto,w_500,c_limit/https%3A%2F%2Fstorage.googleapis.com%2Fglide-prod.appspot.com%2Fuploads-v2%2FmoOsUbsaP4625SZCYZOn%2Fpub%2FZW9B3ttBdQz8sta6PG0W.jpg"
           },
           {
             "name": "Presenter 3",
@@ -191,7 +191,7 @@
             "imageUrl": "https://example.com/presenter5.jpg"
           }
         ],
-        "teaserVideoURL": "https://www.youtube.com/watch?v=examplevideo"
+        "teaserVideoURL": "https://www.youtube.com/watch?v=sXkgDOAl4TY"
       }
     ]
   }
